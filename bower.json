@@ -10,7 +10,7 @@
         "url": "git://github.com/jdaily/angular-save2pdf.git"
     },
     "dependencies": {
-        "angular": "*",
+        "angular": "1.4.x",
         "jspdf": "jdaily/jspdf",
         "html2canvas": "~0.4.1"
     },
